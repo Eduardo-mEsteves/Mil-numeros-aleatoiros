@@ -1,4 +1,4 @@
-# Geração 1000
+# Mil numeros aleatorios
 
 Um código simples que solicita a entrada de um valor, o qual será equivalente ao número de gerações de 1.000 números que serão feitas. O código tem como objetivo simples
 de gerar números aleatórios em grande escala, visando diversos objetivos que envolvam uma certa imprevisibilidade com números.
