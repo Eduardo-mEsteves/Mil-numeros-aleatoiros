@@ -10,7 +10,7 @@ de gerar números aleatórios em grande escala, visando diversos objetivos que e
   - `random`
   - `time`
   - `os.system` (como `sys`)
-  - 
+  
 ## 🚀 Como Rodar o Projeto
 
 1. Certifique-se de ter o **Python 3** instalado.
